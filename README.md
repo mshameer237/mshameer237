@@ -1,7 +1,7 @@
 - 👋 - Hello there, I’m `Shameer`.
 - 👀 - I’m an `UI Engineer`, interested in `HTML` , `CSS` , `JavaScript` , `React` , `Vue` and `Micro-Frontends`
 - 🌱 - I’m currently learning  `Micro-Frontends`.
-- 💞️ - I’m looking to collaborate on Web based projects
+- 💡 - I’m looking to collaborate on Web based projects
 - 📫 - How to reach me www.linkedin.com/in/shameerm
 
 <!---
